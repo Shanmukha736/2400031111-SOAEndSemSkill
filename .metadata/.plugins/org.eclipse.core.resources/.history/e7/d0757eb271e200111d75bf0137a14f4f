@@ -1,0 +1,5 @@
+
+spring.application.name=lab-exam
+
+jwt.secret=MDEyMzQ1Njc4OWFiY2RlZjAxMjM0NTY3ODlhYmNkZWY=
+jwt.expiration=3600000
